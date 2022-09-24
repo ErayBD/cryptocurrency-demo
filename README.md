@@ -12,7 +12,7 @@ Note: This is the upgraded version of 'blockchain-demo' repo. Cryptocurrency tra
 * Flask - Web framework for Python
 * Postman - API
 
-## Introducting
+## Introduction
 
 * Through Flask, we run each nodes (on 5001, 5002 and 5003 ports) that we created from the original file.
 
